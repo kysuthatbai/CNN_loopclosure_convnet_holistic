@@ -1,0 +1,9 @@
+source;share/holistic_loop_closure/hook/pythonpath.ps1
+source;share/holistic_loop_closure/hook/pythonpath.dsv
+source;share/holistic_loop_closure/hook/pythonpath.sh
+source;share/holistic_loop_closure/hook/ament_prefix_path.ps1
+source;share/holistic_loop_closure/hook/ament_prefix_path.dsv
+source;share/holistic_loop_closure/hook/ament_prefix_path.sh
+source;../../build/holistic_loop_closure/share/holistic_loop_closure/hook/pythonpath_develop.ps1
+source;../../build/holistic_loop_closure/share/holistic_loop_closure/hook/pythonpath_develop.dsv
+source;../../build/holistic_loop_closure/share/holistic_loop_closure/hook/pythonpath_develop.sh

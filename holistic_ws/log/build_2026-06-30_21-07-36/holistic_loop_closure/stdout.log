@@ -1,0 +1,24 @@
+running develop
+running egg_info
+creating holistic_loop_closure.egg-info
+writing holistic_loop_closure.egg-info/PKG-INFO
+writing dependency_links to holistic_loop_closure.egg-info/dependency_links.txt
+writing entry points to holistic_loop_closure.egg-info/entry_points.txt
+writing requirements to holistic_loop_closure.egg-info/requires.txt
+writing top-level names to holistic_loop_closure.egg-info/top_level.txt
+writing manifest file 'holistic_loop_closure.egg-info/SOURCES.txt'
+reading manifest file 'holistic_loop_closure.egg-info/SOURCES.txt'
+writing manifest file 'holistic_loop_closure.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/sonvu/holistic_ws/install/holistic_loop_closure/lib/python3.10/site-packages/holistic-loop-closure.egg-link (link to .)
+Installing extractor_node script to /home/sonvu/holistic_ws/install/holistic_loop_closure/lib/holistic_loop_closure
+
+Installed /home/sonvu/holistic_ws/build/holistic_loop_closure
+running symlink_data
+creating /home/sonvu/holistic_ws/install/holistic_loop_closure/share/ament_index
+creating /home/sonvu/holistic_ws/install/holistic_loop_closure/share/ament_index/resource_index
+creating /home/sonvu/holistic_ws/install/holistic_loop_closure/share/ament_index/resource_index/packages
+symbolically linking /home/sonvu/holistic_ws/build/holistic_loop_closure/resource/holistic_loop_closure -> /home/sonvu/holistic_ws/install/holistic_loop_closure/share/ament_index/resource_index/packages
+symbolically linking /home/sonvu/holistic_ws/build/holistic_loop_closure/package.xml -> /home/sonvu/holistic_ws/install/holistic_loop_closure/share/holistic_loop_closure
+creating /home/sonvu/holistic_ws/install/holistic_loop_closure/share/holistic_loop_closure/launch
+symbolically linking /home/sonvu/holistic_ws/build/holistic_loop_closure/launch/holistic_rtabmap.launch.py -> /home/sonvu/holistic_ws/install/holistic_loop_closure/share/holistic_loop_closure/launch

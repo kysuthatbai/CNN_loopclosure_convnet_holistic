@@ -1,0 +1,3 @@
+[console_scripts]
+extractor_node = holistic_loop_closure.holistic_feature_extractor:main
+

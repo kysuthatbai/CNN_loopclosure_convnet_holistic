@@ -1,0 +1,26 @@
+[0.523s] Invoking command in '/home/sonvu/holistic_ws/build/holistic_loop_closure': PYTHONPATH=/home/sonvu/holistic_ws/build/holistic_loop_closure/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sonvu/holistic_ws/install/holistic_loop_closure/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/sonvu/holistic_ws/build/holistic_loop_closure/build --no-deps symlink_data
+[0.690s] running develop
+[0.785s] running egg_info
+[0.785s] creating holistic_loop_closure.egg-info
+[0.785s] writing holistic_loop_closure.egg-info/PKG-INFO
+[0.785s] writing dependency_links to holistic_loop_closure.egg-info/dependency_links.txt
+[0.785s] writing entry points to holistic_loop_closure.egg-info/entry_points.txt
+[0.785s] writing requirements to holistic_loop_closure.egg-info/requires.txt
+[0.786s] writing top-level names to holistic_loop_closure.egg-info/top_level.txt
+[0.786s] writing manifest file 'holistic_loop_closure.egg-info/SOURCES.txt'
+[0.786s] reading manifest file 'holistic_loop_closure.egg-info/SOURCES.txt'
+[0.787s] writing manifest file 'holistic_loop_closure.egg-info/SOURCES.txt'
+[0.788s] running build_ext
+[0.788s] Creating /home/sonvu/holistic_ws/install/holistic_loop_closure/lib/python3.10/site-packages/holistic-loop-closure.egg-link (link to .)
+[0.788s] Installing extractor_node script to /home/sonvu/holistic_ws/install/holistic_loop_closure/lib/holistic_loop_closure
+[0.788s] 
+[0.788s] Installed /home/sonvu/holistic_ws/build/holistic_loop_closure
+[0.788s] running symlink_data
+[0.789s] creating /home/sonvu/holistic_ws/install/holistic_loop_closure/share/ament_index
+[0.789s] creating /home/sonvu/holistic_ws/install/holistic_loop_closure/share/ament_index/resource_index
+[0.789s] creating /home/sonvu/holistic_ws/install/holistic_loop_closure/share/ament_index/resource_index/packages
+[0.789s] symbolically linking /home/sonvu/holistic_ws/build/holistic_loop_closure/resource/holistic_loop_closure -> /home/sonvu/holistic_ws/install/holistic_loop_closure/share/ament_index/resource_index/packages
+[0.789s] symbolically linking /home/sonvu/holistic_ws/build/holistic_loop_closure/package.xml -> /home/sonvu/holistic_ws/install/holistic_loop_closure/share/holistic_loop_closure
+[0.789s] creating /home/sonvu/holistic_ws/install/holistic_loop_closure/share/holistic_loop_closure/launch
+[0.789s] symbolically linking /home/sonvu/holistic_ws/build/holistic_loop_closure/launch/holistic_rtabmap.launch.py -> /home/sonvu/holistic_ws/install/holistic_loop_closure/share/holistic_loop_closure/launch
+[0.805s] Invoked command in '/home/sonvu/holistic_ws/build/holistic_loop_closure' returned '0': PYTHONPATH=/home/sonvu/holistic_ws/build/holistic_loop_closure/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sonvu/holistic_ws/install/holistic_loop_closure/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/sonvu/holistic_ws/build/holistic_loop_closure/build --no-deps symlink_data

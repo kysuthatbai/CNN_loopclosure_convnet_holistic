@@ -1,0 +1,14 @@
+package.xml
+setup.cfg
+setup.py
+holistic_loop_closure/__init__.py
+holistic_loop_closure/holistic_feature_extractor.py
+holistic_loop_closure.egg-info/PKG-INFO
+holistic_loop_closure.egg-info/SOURCES.txt
+holistic_loop_closure.egg-info/dependency_links.txt
+holistic_loop_closure.egg-info/entry_points.txt
+holistic_loop_closure.egg-info/requires.txt
+holistic_loop_closure.egg-info/top_level.txt
+holistic_loop_closure.egg-info/zip-safe
+launch/holistic_rtabmap.launch.py
+resource/holistic_loop_closure
